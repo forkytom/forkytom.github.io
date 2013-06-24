@@ -30,7 +30,7 @@ website = 'http://blog.forkytom.com'
 # **************************************************************
 
 # Add your Disqus shortname to enable comments powered by Disqus
-disqus_shortname = 'forkytom'
+disqus_shortname = None
 
 # Change your favicon (new favicon goes in _static directory)
 html_favicon = 'tinkerer.ico'
